@@ -1,0 +1,46 @@
+h1{
+    background-color: aqua;
+    text-align: center;
+    text-decoration: underline;
+    margin: 40px 500px ;
+    border-radius: 10px;
+    height: 50px;
+}
+
+h3{
+    text-align: center;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    /* width: 700px; */
+    text-justify: auto;
+    /* text-align: center; */
+
+}
+
+ol{
+    background-color: burlywood;
+    width: 800px;
+    border: 3px solid blanchedalmond;
+    border-radius: 10px;
+}
+
+li{
+    /* text-decoration:underline; */
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    line-height: 40px;
+    
+}
+
+.blog, .git{
+    border: 5px solid tomato;
+    box-shadow: 10px 10px 7px salmon;
+    height: 300px;
+    margin: 40px 500px;
+    padding: 20px 30px;
+    border-radius: 20px;
+    width: 900px;
+}
